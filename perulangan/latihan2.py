@@ -1,4 +1,4 @@
-# latihan2.py
+# Perulangan latihan2.py
 
 angka=int(input("masukan angka: "))
 if angka % 2==0:
