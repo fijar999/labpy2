@@ -3,7 +3,7 @@
 # menyatakan absensi kehadiran
 
 nim = int(input("masukan NIM: "))
-b = Fijar
+b = "Fijar"
 if nim == 312510227:
     print(f"{b} hadir")
 
