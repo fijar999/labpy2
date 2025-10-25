@@ -12,7 +12,6 @@ while True:
         print("menutup absensi")
         break
 
-# jika tetap salah memasukan NIM dan ingin keluar dari web, ketik end    
     if nim == "312510227":
         print(f"{b} hadir.\n")
     else:

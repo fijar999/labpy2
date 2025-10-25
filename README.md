@@ -9,7 +9,9 @@
 2. latihan2.py
 
 ## Penjelasan
-File ini berisi contoh dan tugas dari praktikum yang mencakup penggunaan `if`, `elif`, `else`, serta berbagai jenis perulangan seperti `for` dan `while`.
+File ini berisi contoh dan tugas dari praktikum yang mencakup penggunaan `if`, `else`, serta berbagai jenis perulangan seperti `for`, `break` dan `while True`.
 
 
-latihan1 : jika salah memasukan nomor maka akan muncul tidak dalam daftar
+1. ## kondisi_if  
+- latihan1 : jika salah memasukan nomor maka akan muncul tidak dalam daftar  
+- latihan2 : jika salah
