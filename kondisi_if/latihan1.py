@@ -1,11 +1,11 @@
 # latihan1.py
+# kondisi_if
+# menyatakan absensi kehadiran
 
-nilai=int(input("masukan nilai: "))
-if nilai >= 75:
-    print("lulus")
+nim = int(input("masukan NIM: "))
+b = Fijar
+if nim == 312510227:
+    print(f"{b} hadir")
 
 else:
-    print("tidak lulus")
-
-for i in range(1, 6):
-    print(f"Angka le-{i}")
+    print("tidak dalam daftar")

@@ -1,12 +1,11 @@
-# Perulangan latihan1.py
+# latihan1.py
+# perulangan
+# menyatakan absensi kehadiran
 
-nilai=int(input("masukan nilai: "))
-if nilai >= 75:
-    print("lulus")
+# jika salah memasukan NIM akan terus terulang sampai NIM benar
+while True:
+    nim = int(input("masukan NIM: "))
 
-else:
-    print("tidak lulus")
-
-for i in range(1, 6):
-    print(f"Angka le-{i}")
-    
+# jika tetap salah memaasukan NIM dan ingin keluar dari web, ketik end
+    if nim = "end"
+    break
