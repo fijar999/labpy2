@@ -3,7 +3,7 @@
 # menentukan bilangan ganjil/genap
 
 while True:
-    angka = input("masukan angka: ")
+    angka = input("masukan nomor: ")
 
     if angka == "end":
         print("menutup")
@@ -16,5 +16,5 @@ while True:
         else:
             print(f"{angka} adalah bilangan ganjil.\n")
     else:
-        print("input tidak valid! silahkan memasukan angka atau 'end' untuk keluar.\n")
+        print("input tidak valid! silahkan memasukan nomor atau 'end' untuk keluar.\n")
 
