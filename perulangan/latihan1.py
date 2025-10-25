@@ -3,22 +3,19 @@
 # menyatakan absensi kehadiran
 
 # jika salah memasukan NIM akan terus terulang sampai NIM benar
+
+b = "Fijar"
 while True:
-    nim = input("masukan 'end' NIM: ")
-    if nim == "end"
-    print("anda keluar")
-    break
+    nim = input("masukan NIM: ")
 
-# jika tetap salah memasukan NIM dan ingin keluar dari web, ketik end
-    if nim == "end"
-        print("anda keluar")
+    if nim.lower() == "end":
+        print("menutup absensi")
         break
-    
-    b = "fijar"
-    if nim == "312510227"
-    print(f"{b} hadir")
 
+# jika tetap salah memasukan NIM dan ingin keluar dari web, ketik end    
+    if nim == "312510227":
+        print(f"{b} hadir.\n")
     else:
-        print("tidak dalam daftar")
+        print("tidak dalam daftar.\n")
 
 print()
